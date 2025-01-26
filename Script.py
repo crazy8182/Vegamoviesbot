@@ -68,25 +68,7 @@ BOT WORKING PROPERLY 🔥"""
 🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v4.2 [ Sᴛᴀʙʟᴇ ]</code>
 
 Bʏ @vegamoviesnewin</b>"""
-        
-    
-    STATUS_TXT = """<b><u>🗃 ᴅᴀᴛᴀʙᴀsᴇ 1 🗃</u>
-
-» ᴛᴏᴛᴀʟ ᴜsᴇʀs - <code>{}</code>
-» ᴛᴏᴛᴀʟ ɢʀᴏᴜᴘs - <code>{}</code>
-» ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ - <code>{} / {}</code>
-
-<u>🗳 ᴅᴀᴛᴀʙᴀsᴇ 2 🗳</u></b>
-
-» ᴛᴏᴛᴀʟ ꜰɪʟᴇs - <code>{}</code>
-» ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ - <code>{} / {}</code>
-
-<u>🤖 ʙᴏᴛ ᴅᴇᴛᴀɪʟs 🤖</u>
-
-» ᴜᴘᴛɪᴍᴇ - <code>{}</code>
-» ʀᴀᴍ - <code>{}%</code>
-» ᴄᴘᴜ - <code>{}%</code></b>"""
-
+      
     STATUS_TXT = """<b>Total Files From All DBs: <code>{}</code>
 
 USERS DB :-
